@@ -22,7 +22,7 @@ setup(
 
     version = "0.2",
     description = "HTML to Markdown converter.",
-    long_description = open(README).read(),
+    # long_description = open(README).read(),
     author = "David Eyk",
     author_email = "deyk@crossway.org",
     url = "http://github.com/Crossway/antimarkdown/",
