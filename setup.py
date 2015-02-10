@@ -16,7 +16,7 @@ setup(
     ],
 
     package_data = {
-        '': ['*.txt', '*.html'],
+        '': ['*.txt', '*.html', '*.rst'],
     },
     zip_safe = False,
 
